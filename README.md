@@ -1,12 +1,20 @@
 # MERN-Ecommerce
 
-Ứng dụng dùng Database là MongoDB sử dụng ExpressJS phía giao diện được viết bằng React + TailwindCSS/CSS
+Database: MongoDB
+
+Backend: NodeJS ExpressJS
+
+Fontend: React
+
+TailwindCSS / CSS. Hình ảnh lưu trữ trong Cloudinary
+
+Đầy đủ các tính năng thêm xoá sửa tìm kiếm sắp xếp
 
 Hỗ trợ thanh toán Paypal
 
 Đã kiểm tra responsive các kích cỡ màng hình thông dụng
 
-Giao diện khách hàng có trong Demo bên dưới 
+Giao diện khách hàng có trong Demo bên dưới được deploy bằng heroku
 
 Demo https://minh-react-ecommerce.herokuapp.com/
 
