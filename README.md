@@ -1,6 +1,6 @@
 # MERN-Ecommerce
 
-Cập nhật lại đồ án Webside bán hàng lên github
+Cập nhật lại đồ án Webside bán hàng lên github và deploy
 
 Database: MongoDB
 
