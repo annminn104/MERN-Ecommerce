@@ -1,5 +1,7 @@
 # MERN-Ecommerce
 
+Cập nhật lại đồ án Webside bán hàng lên github
+
 Database: MongoDB
 
 Backend: NodeJS ExpressJS
