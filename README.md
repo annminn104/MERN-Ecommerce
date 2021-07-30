@@ -4,7 +4,7 @@
 
 Hỗ trợ thanh toán Paypal
 
-Đã kiểm tre responsive các loại màng hình thông dụng
+Đã kiểm tra responsive các kích cỡ màng hình thông dụng
 
 Giao diện khách hàng có trong Demo bên dưới 
 
