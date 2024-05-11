@@ -1,14 +1,22 @@
 # MERN-Ecommerce
 
-Cập nhật lại đồ án Webside bán hàng lên github và deploy
+Cập nhật lại đồ án Webside bán hàng + thanh toán
 
-Database: MongoDB
+Dự án code 2019 sau này mới push lên git 
 
-Backend: NodeJS ExpressJS
+Environment anh đã quên rùi nên mấy em tham khảo lại thôi.
+
+Gợi ý BE nên deploy Netlify còn client(FE) nên deploy Vercel cho nhanh
+
+Code nếu đọc thì nên migration sang version mới nhất của các thư viện để xài
+
+Database: MongoDB (Atlas), Cloudinary (Lưu images)
+
+Backend: NodeJS + ExpressJS (Framework)
 
 Fontend: React
 
-TailwindCSS / CSS. Hình ảnh lưu trữ trong Cloudinary
+UI: TailwindCSS / CSS. (CSS này mấy em migration sang SCSS đi).
 
 Đầy đủ các tính năng thêm xoá sửa tìm kiếm sắp xếp
 
@@ -18,7 +26,7 @@ Hỗ trợ thanh toán Paypal
 
 Giao diện khách hàng có trong Demo bên dưới được deploy bằng heroku
 
-Demo https://minh-react-ecommerce.herokuapp.com/
+Demo https://minh-react-ecommerce.herokuapp.com/ (Die từ 2022)
 
 Giao diện ADMIN
 
