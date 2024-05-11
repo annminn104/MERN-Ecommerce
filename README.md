@@ -2,7 +2,7 @@
 
 Cập nhật lại đồ án Webside bán hàng + thanh toán
 
-Dự án code 2019 sau này mới push lên git 
+Dự án code 2019 sau này mới push lên git. Cần support hay tư vấn gì add tele anh 0374742756
 
 Environment anh đã quên rùi nên mấy em tham khảo lại thôi.
 
