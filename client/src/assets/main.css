@@ -98,10 +98,6 @@ Add the correct font weight in Edge and Safari.
 Add the correct font size in all browsers.
 */
 
-small {
-  font-size: 80%;
-}
-
 /**
 Prevent 'sub' and 'sup' elements from affecting the line height in all browsers.
 */
@@ -399,8 +395,7 @@ textarea {
  */
 
 img,
-svg,
-object {
+svg {
   display: block; /* 1 */
   vertical-align: middle; /* 2 */
 }
