@@ -51,7 +51,7 @@ const userCtrl = {
       if (!user) return res.status(400).json({ msg: "User does not exist." });
 
       const isMatch = await bcrypt.compare(password, user.password);
-      if (!isMatch) return res.status(400).json({ msg: "Incorrect password." });
+      if (!isMatch) return res.status(400).json({ msg: "Incorrect password" });
 
       // If login success , create access token and refresh token
       const accesstoken = createAccessToken({ id: user._id });

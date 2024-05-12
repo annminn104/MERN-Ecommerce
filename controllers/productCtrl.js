@@ -95,7 +95,7 @@ const productCtrl = {
       });
 
       await newProduct.save();
-      res.json({ msg: "Created a product" });
+      res.status(200).json({ msg: "Created a product" });
     } catch (err) {
       return res.status(500).json({ msg: err.message });
     }

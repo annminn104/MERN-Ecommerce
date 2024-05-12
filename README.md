@@ -46,6 +46,42 @@ Giao diện Check lịch sử mua hàng của các user
 
 ![alt text](https://res.cloudinary.com/anh-minh/image/upload/v1627641774/Demo/4_wzwfnr.png)
 
+### Hướng dẫn chạy
+
+cài node 16+ (suggest xài NVM)
+
+```bash
+npm -v
+```
+
+cài yarn
+
+```bash
+npm instlal -g yarn
+```
+
+cài packages BE
+
+```bash
+yarn
+```
+
+cài packages FE
+
+```bash
+cd client
+yarn
+```
+
+chạy code
+
+```bash
+yarn server
+yarn client
+```
+
+Nếu FE lỗi thì
+
 ### FIX Error
 
 **Error message "error:0308010C:digital envelope routines::unsupported"**
