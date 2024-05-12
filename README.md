@@ -26,7 +26,7 @@ Hỗ trợ thanh toán Paypal
 
 Giao diện khách hàng có trong Demo bên dưới được deploy bằng heroku
 
-Demo https://minh-react-ecommerce.herokuapp.com/ (Die từ 2022)
+Demo <https://minh-react-ecommerce.herokuapp.com/> (Die từ 2022)
 
 Giao diện ADMIN
 
@@ -44,3 +44,18 @@ Giao diện Check lịch sử mua hàng của các user
 
 ![alt text](https://res.cloudinary.com/anh-minh/image/upload/v1627641774/Demo/4_wzwfnr.png)
 
+### FIX Error
+
+**Error message "error:0308010C:digital envelope routines::unsupported"**
+
+For Windows, use the below command in cmd:
+
+```bash
+set NODE_OPTIONS=--openssl-legacy-provider
+```
+
+For Unix, use:
+
+```bash
+export NODE_OPTIONS=--openssl-legacy-provider
+```

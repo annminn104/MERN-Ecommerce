@@ -20,7 +20,7 @@ const paymentSchema = new mongoose.Schema(
     },
     address: {
       type: Object,
-      required: true,
+      required: false,
     },
     cart: {
       type: Array,
