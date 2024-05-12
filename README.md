@@ -10,6 +10,8 @@ Gợi ý BE nên deploy Netlify còn client(FE) nên deploy Vercel cho nhanh
 
 Code nếu đọc thì nên migration sang version mới nhất của các thư viện để xài
 
+NODE: 16+
+
 Database: MongoDB (Atlas), Cloudinary (Lưu images)
 
 Backend: NodeJS + ExpressJS (Framework)
